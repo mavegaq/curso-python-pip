@@ -7,3 +7,5 @@ y esta es su historia
 En cámara parece alto, peroen realidad tiene estatura promedio
 
 Y estoy estudiando Python para ciencia de datos
+
+Revisando las diferentes cosas que se le pueden hacer las ramas
