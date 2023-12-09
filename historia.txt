@@ -7,3 +7,4 @@ y esta es su historia
 En cámara parece alto, peroen realidad tiene estatura promedio
 
 Y estoy estudiando Python para ciencia de datos
+pero ahora estoy mirando y aprendiendo Git y Git hub 
