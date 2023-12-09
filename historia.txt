@@ -1,7 +1,9 @@
 Esta es la historia de Manuel vega
 
-Manuel vega nacio en Bogotá Colombia tiene 29 años 
+Manuel vega nacio en Bogotá Colombia tiene 30 años 
 
 y esta es su historia 
 
 En cámara parece alto, peroen realidad tiene estatura promedio
+
+Y estoy estudiando Python para ciencia de datos
